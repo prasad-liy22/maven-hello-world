@@ -25,26 +25,6 @@ To create a basic Java application using Apache Maven and understand the standar
 - Implemented a simple Java application.
 - Verified successful compilation and execution using Maven.
 
-> Add additional sections below for the remaining lab tasks.
-
-### Lab 02 – [Task Name]
-**Purpose:**
-Briefly describe the objective of the task.
-
-**Implementation:**
-- Describe what was implemented.
-- List key features or concepts covered.
-
-### Lab 03 – [Task Name]
-**Purpose:**
-Briefly describe the objective.
-
-**Implementation:**
-- Describe the implementation.
-
-*(Continue this format for all laboratory tasks.)*
-
----
 
 ## Project Structure
 
