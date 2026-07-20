@@ -61,7 +61,7 @@ mvn exec:java
 Or, if an executable JAR is generated:
 
 ```bash
-java -jar target/<jar-file-name>.jar
+java -jar src/App.java
 ```
 
 ---
